@@ -1,6 +1,4 @@
-Certainly! Here's a structured README file based on the methodology and details you provided for your tuberculosis detection project using CNN models:
 
----
 
 # Tuberculosis Detection using CNN Models
 
